@@ -17,7 +17,7 @@
 
 Hi, I'm **Anshul** — a developer who loves building things and learning new technologies. This repository is where I collect my projects, from small experiments to full applications, so you can see what I've built and how I've grown.
 
-- 🔭 Currently working on: _add your current project_
+- 🔭 Currently working on: [Daily Tasks](https://github.com/AnshulHR26/daily-tasks) — a full-stack task manager with real-time sync
 - 🌱 Currently learning: _add a skill you're learning_
 - 🎯 Goal: Building real-world projects and growing a career in the IT industry
 - 📫 Reach me at: [anshulhr76@gmail.com](mailto:anshulhr76@gmail.com) · [LinkedIn](https://www.linkedin.com/in/anshul-953281210/)
@@ -28,11 +28,12 @@ Hi, I'm **Anshul** — a developer who loves building things and learning new te
 
 | Category | Technologies |
 |---|---|
-| **Languages** | _e.g. Python, JavaScript, Java, C++_ |
-| **Frontend** | _e.g. HTML, CSS, React_ |
-| **Backend** | _e.g. Node.js, Express, Django_ |
-| **Databases** | _e.g. MySQL, MongoDB_ |
-| **Tools** | Git, GitHub, VS Code |
+| **Languages** | Python, JavaScript, SQL |
+| **Frontend** | HTML, CSS, JavaScript, PWA (service workers) |
+| **Backend** | FastAPI, Uvicorn, REST APIs, WebSockets |
+| **Databases** | PostgreSQL, SQLAlchemy |
+| **Auth & Security** | JWT, OAuth2, bcrypt |
+| **Tools** | Git, GitHub, VS Code, pgAdmin, Tailscale |
 
 ---
 
@@ -40,10 +41,10 @@ Hi, I'm **Anshul** — a developer who loves building things and learning new te
 
 | # | Project | Description | Tech Stack | Links |
 |---|---|---|---|---|
-| 1 | _Project name_ | _What it does in one line_ | _Tech used_ | [Code](./) · [Live](#) |
+| 1 | **✅ Daily Tasks** | Full-stack personal task manager with JWT login, real-time sync across devices, and an installable phone app | FastAPI · PostgreSQL · SQLAlchemy · WebSockets · JWT · PWA | [Code](https://github.com/AnshulHR26/daily-tasks) |
 | 2 | _Coming soon_ | | | |
 
-> Each project lives in its own folder with a README explaining what it does, how to run it, and screenshots.
+> Larger projects live in their own repositories (linked above). Smaller ones live in folders inside this repo, each with its own README.
 
 ---
 
@@ -51,10 +52,7 @@ Hi, I'm **Anshul** — a developer who loves building things and learning new te
 
 ```
 projects-portfolio/
-├── project-1-name/
-│   ├── README.md
-│   └── src/
-├── project-2-name/
+├── project-name/
 │   ├── README.md
 │   └── src/
 ├── LICENSE
@@ -65,7 +63,7 @@ projects-portfolio/
 
 ## ✅ How to Add a New Project
 
-1. Create a new folder: `project-name/`
+1. Create a new folder: `project-name/` (or a separate repo for bigger projects)
 2. Add your source code inside it
 3. Add a `README.md` with: overview, features, tech stack, setup steps, and screenshots
 4. Add a row for it in the **Projects** table above
