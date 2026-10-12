@@ -17,7 +17,7 @@
 
 Hi, I'm **Anshul** — a developer who loves building things and learning new technologies. This repository is where I collect my projects, from small experiments to full applications, so you can see what I've built and how I've grown.
 
-- 🔭 Currently working on: [TaskSync](https://github.com/AnshulHR26/tasksync) — a full-stack task manager with real-time sync
+- 🔭 Currently working on: [TaskSync](https://github.com/AnshulHR26/tasksync) — a full-stack task manager with real-time sync ([live on Render](https://daily-tasks-onb4.onrender.com))
 - 🌱 Currently learning: _add a skill you're learning_
 - 📚 Notes & guides: [dev-notes](https://github.com/AnshulHR26/dev-notes)
 - 🎯 Goal: Building real-world projects and growing a career in the IT industry
@@ -42,7 +42,7 @@ Hi, I'm **Anshul** — a developer who loves building things and learning new te
 
 | # | Project | Description | Tech Stack | Links |
 |---|---|---|---|---|
-| 1 | **✅ TaskSync** | Full-stack personal task manager with JWT login, real-time sync across devices, and an installable phone app | FastAPI · PostgreSQL · SQLAlchemy · WebSockets · JWT · PWA | [Code](https://github.com/AnshulHR26/tasksync) |
+| 1 | **✅ TaskSync** | Full-stack personal task manager with JWT login, real-time sync across devices, and an installable phone app | FastAPI · PostgreSQL · SQLAlchemy · WebSockets · JWT · PWA | [Code](https://github.com/AnshulHR26/tasksync) · [Live Demo](https://daily-tasks-onb4.onrender.com) |
 | 2 | _Coming soon_ | | | |
 
 > Larger projects live in their own repositories (linked above). Smaller ones live in folders inside this repo, each with its own README.
