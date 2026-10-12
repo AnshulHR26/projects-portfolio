@@ -18,7 +18,7 @@
 Hi, I'm **Anshul** — a developer who loves building things and learning new technologies. This repository is where I collect my projects, from small experiments to full applications, so you can see what I've built and how I've grown.
 
 - 🔭 Currently working on: [TaskSync](https://github.com/AnshulHR26/tasksync) — a full-stack task manager with real-time sync ([live on Render](https://daily-tasks-onb4.onrender.com))
-- 🌱 Currently learning: _add a skill you're learning_
+- 🌱 Currently learning: Docker, automated testing with pytest + GitHub Actions, and database migrations with Alembic
 - 📚 Notes & guides: [dev-notes](https://github.com/AnshulHR26/dev-notes)
 - 🎯 Goal: Building real-world projects and growing a career in the IT industry
 - 📫 Reach me at: [anshulhr76@gmail.com](mailto:anshulhr76@gmail.com) · [LinkedIn](https://www.linkedin.com/in/anshul-953281210/)
