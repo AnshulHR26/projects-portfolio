@@ -19,7 +19,7 @@ Hi, I'm **Anshul** — a developer who loves building things and learning new te
 
 - 🔭 Currently working on: [TaskSync](https://github.com/AnshulHR26/tasksync) — a full-stack task manager with real-time sync ([live on Render](https://daily-tasks-onb4.onrender.com))
 - 🌱 Currently learning: Docker, automated testing with pytest + GitHub Actions, and database migrations with Alembic
-- 📚 Notes & guides: [dev-notes](https://github.com/AnshulHR26/dev-notes)
+- 📚 Notes & guides: [dev-notes](https://github.com/AnshulHR26/dev-notes) — step-by-step guides, including the new [Git Bash & Git Commands guide](https://github.com/AnshulHR26/dev-notes/blob/main/git/git-bash-commands.md) (16 sections, beginner to advanced)
 - 🎯 Goal: Building real-world projects and growing a career in the IT industry
 - 📫 Reach me at: [anshulhr76@gmail.com](mailto:anshulhr76@gmail.com) · [LinkedIn](https://www.linkedin.com/in/anshul-953281210/)
 
@@ -34,7 +34,7 @@ Hi, I'm **Anshul** — a developer who loves building things and learning new te
 | **Backend** | FastAPI, Uvicorn, REST APIs, WebSockets |
 | **Databases** | PostgreSQL, SQLAlchemy |
 | **Auth & Security** | JWT, OAuth2, bcrypt |
-| **Tools** | Git, GitHub, VS Code, pgAdmin, Tailscale |
+| **Tools** | Git, Git Bash, GitHub, VS Code, pgAdmin, Tailscale |
 
 ---
 
